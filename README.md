@@ -6,4 +6,4 @@
 このリポジトリは[HackerRank](https://www.hackerrank.com/ "HackerRank")の学習記録です。<br>
 回答言語はPython3です。
 
-This repository contains my Java learning records on [HackerRank](https://www.hackerrank.com/ "HackerRank").
+This repository contains my Python3 learning records on [HackerRank](https://www.hackerrank.com/ "HackerRank").
